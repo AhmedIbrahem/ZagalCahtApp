@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186665897437",
+    "firebase_url": "https://zagal-ee7a3.firebaseio.com",
+    "project_id": "zagal-ee7a3",
+    "storage_bucket": "zagal-ee7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186665897437:android:f1509ed3696142ea",
+        "android_client_info": {
+          "package_name": "ahmed.fciibrahem.helwan.edu.eg.zagal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186665897437-flmppt8a1kqrdbgeolev78v0sqc704kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ahmed.fciibrahem.helwan.edu.eg.zagal",
+            "certificate_hash": "e7e8823bcc5b6d195864eb96b00c3c4c7e29adb9"
+          }
+        },
+        {
+          "client_id": "186665897437-nujoj0l8rnb6khjdvduc9rbprlem91p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxspkw5Cu3__-3f0hy5c13m28FgpQG6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186665897437-nujoj0l8rnb6khjdvduc9rbprlem91p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

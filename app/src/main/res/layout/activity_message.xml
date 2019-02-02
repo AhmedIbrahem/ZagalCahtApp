@@ -63,7 +63,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Typpe a  Message ....."
+            android:hint="@string/typpe_a_message"
             android:textColorHint="#fff"
             android:id="@+id/txt_sent"
             android:layout_toStartOf="@+id/btn_sent"
@@ -81,8 +81,9 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:outlineAmbientShadowColor="#172f97"
+            android:contentDescription="@string/button_sent"
 
-            />
+            tools:ignore="RtlHardcoded" />
 
     </RelativeLayout>
 

@@ -1,7 +1,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="#22313f"
     android:padding="@dimen/widget_margin">
 
@@ -14,7 +13,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="64dp"
         android:layout_marginTop="16dp"
-        android:text="UserName"
+        android:text="@string/user_name"
         android:textColor="#32c5d2"
         android:textSize="18sp" />
     <ImageView
@@ -22,6 +21,7 @@
         android:layout_height="50dp"
         android:src="@mipmap/ic_launcher"
         android:id="@+id/widprofile_image"
+        android:contentDescription="@string/userprofile"
         />
 
 

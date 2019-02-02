@@ -6,4 +6,19 @@
     <string name="appwidget_text">EXAMPLE</string>
     <string name="configure">Configure</string>
     <string name="add_widget">Add widget</string>
+    <string name="registerlogo">RegisterLogo</string>
+    <string name="applogo">AppLogo</string>
+    <string name="button_sent">Button Sent Message</string>
+    <string name="userprofile">UserProfile</string>
+    <string name="zagal">Zagal</string>
+    <string name="email">Email</string>
+    <string name="pass">.......</string>
+    <string name="forget_your_password">Forget your Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="user_name">User Name</string>
+    <string name="typpe_a_message">Typpe a Message .....</string>
+    <string name="your_email">Your Email</string>
+    <string name="reset">Reset</string>
+    <string name="forget_text">By click Recet you will recive an Email to new password</string>
 </resources>
